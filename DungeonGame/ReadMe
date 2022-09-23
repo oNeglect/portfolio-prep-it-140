@@ -1,0 +1,7 @@
+Game created that allows user to traverse map by collecting various items. 
+Each room has a specific item, and the user must command the character to pick the item up
+if the item exists in the room. One room has the dungeon monster, and if the player goes into
+the room without having collected all of the items, the game ends, and the player must start over.
+If the player collects all of the items, and runs into the room, then the player wins the game.
+The player can move north, south, east, or west. If the move the player wants to move is not valid,
+system must be able to account for this. The system must be able to account for all inputs from user as well.
